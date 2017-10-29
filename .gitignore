@@ -102,3 +102,4 @@ ENV/
 
 # pickles
 *.pickle
+*.npy
