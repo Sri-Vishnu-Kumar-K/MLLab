@@ -103,3 +103,7 @@ ENV/
 # pickles
 *.pickle
 *.npy
+*dataset/
+*models/
+*logs_output_1/
+*logs_output_2/
